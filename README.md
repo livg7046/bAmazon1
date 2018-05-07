@@ -28,5 +28,5 @@ This application used local storage for the database, therefore it is only acces
 ## Database updating:
 
 ![alt text](bAmazonDEMO_7.png)
-![alt text](bAmazonDEMO_8.png)
+![alt text](bAMazon_DEMO_8.png)
 
