@@ -23,3 +23,10 @@ This application used local storage for the database, therefore it is only acces
 ![alt text](bAmazonDEMO_3.png)
 ![alt text](bAmazonDEMO_4.png)
 ![alt text](bAmazonDEMO_5.png)
+![alt text](bAmazonDEMO_6.png)
+
+## Database updating:
+
+![alt text](bAmazonDEMO_7.png)
+![alt text](bAmazonDEMO_8.png)
+
