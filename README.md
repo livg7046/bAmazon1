@@ -18,8 +18,8 @@ This application used local storage for the database, therefore it is only acces
 
 ## Application in the works:
 
-![alt text](C:\Users\diore\Desktop\class\bamazon\bAmazon-\bAmazonDEMO_1.png)
-![alt text](C:\Users\diore\Desktop\class\bamazon\bAmazon-\bAmazonDEMO_2.png)
-![alt text](C:\Users\diore\Desktop\class\bamazon\bAmazon-\bAmazonDEMO_3.png)
-![alt text](C:\Users\diore\Desktop\class\bamazon\bAmazon-\bAmazonDEMO_4.png)
-![alt text](C:\Users\diore\Desktop\class\bamazon\bAmazon-\bAmazonDEMO_5.png)
+![alt text](bAmazonDEMO_1.png)
+![alt text](bAmazonDEMO_2.png)
+![alt text](bAmazonDEMO_3.png)
+![alt text](bAmazonDEMO_4.png)
+![alt text](bAmazonDEMO_5.png)
